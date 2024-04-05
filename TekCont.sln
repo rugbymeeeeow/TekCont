@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TekCont", "TekCont\TekCont.csproj", "{6579E813-A915-431A-8961-19A4CA0A4C10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1", "Test1\Test1.csproj", "{B01C5A7F-9414-4C20-9A07-56E6C6D6CC6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6579E813-A915-431A-8961-19A4CA0A4C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6579E813-A915-431A-8961-19A4CA0A4C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6579E813-A915-431A-8961-19A4CA0A4C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6579E813-A915-431A-8961-19A4CA0A4C10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B01C5A7F-9414-4C20-9A07-56E6C6D6CC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01C5A7F-9414-4C20-9A07-56E6C6D6CC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01C5A7F-9414-4C20-9A07-56E6C6D6CC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01C5A7F-9414-4C20-9A07-56E6C6D6CC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F2B53B2-ECF7-4534-9661-A8E32A6B2056}
+	EndGlobalSection
+EndGlobal
